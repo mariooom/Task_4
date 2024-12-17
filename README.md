@@ -9,4 +9,6 @@ Features:
 - Prints the total price before and after tax.
 
 Example Output:
+
+
 ![Screenshot 2024-12-17 030057](https://github.com/user-attachments/assets/e4241c29-9c68-4739-a640-463cd764f715)
