@@ -11,4 +11,5 @@ Features:
 Example Output:
 
 
-![Screenshot 2024-12-17 030057](https://github.com/user-attachments/assets/e4241c29-9c68-4739-a640-463cd764f715)
+![output](https://github.com/user-attachments/assets/a3864d3d-723b-4cfa-b5a2-b54c5f33a447)
+
